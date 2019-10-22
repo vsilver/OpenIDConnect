@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526b8081-1027-411e-b9ca-c87b7da9622f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RifMAxGJzPzBwINVgLMLLYNZBb" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DataSetTest">
+    <configuration name="DataSetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UpToDate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DataSetTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSetTest.checkEmailAddressValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UpToDate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DataSetTest" />
+      <option name="METHOD_NAME" value="checkEmailAddressValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSetTest.checkIdValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UpToDate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DataSetTest" />
+      <option name="METHOD_NAME" value="checkIdValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSetTest.checkPhoneNumberValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UpToDate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DataSetTest" />
+      <option name="METHOD_NAME" value="checkPhoneNumberValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataSetTest" />
+        <item itemvalue="TestNG.DataSetTest.checkPhoneNumberValidation" />
+        <item itemvalue="TestNG.DataSetTest.checkIdValidation" />
+        <item itemvalue="TestNG.DataSetTest.checkEmailAddressValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526b8081-1027-411e-b9ca-c87b7da9622f" name="Default Changelist" comment="" />
+      <created>1570154786297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570154786297</updated>
+      <workItem from="1570154787933" duration="1188000" />
+      <workItem from="1570156004105" duration="903000" />
+      <workItem from="1570158912918" duration="1580000" />
+      <workItem from="1570160743418" duration="1788000" />
+      <workItem from="1570163151507" duration="1546000" />
+      <workItem from="1570164972886" duration="178000" />
+      <workItem from="1570169206405" duration="1782000" />
+      <workItem from="1570171023443" duration="2020000" />
+      <workItem from="1570173167622" duration="1784000" />
+      <workItem from="1570175001137" duration="1988000" />
+      <workItem from="1570177021929" duration="753000" />
+      <workItem from="1570178975929" duration="2020000" />
+      <workItem from="1570195038500" duration="2090000" />
+      <workItem from="1570197372790" duration="1961000" />
+      <workItem from="1570242588593" duration="1309000" />
+      <workItem from="1570244244082" duration="1784000" />
+      <workItem from="1570246079780" duration="176000" />
+      <workItem from="1570277302484" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
